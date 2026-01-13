@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "Welcome to our Spring Boot Java Application !!";
+		return "Welcome to our Spring Boot Java Application ";
 	}
 
 	public static void main(String[] args) {
